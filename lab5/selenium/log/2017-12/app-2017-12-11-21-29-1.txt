@@ -1,0 +1,6 @@
+21:27:40.358 [INFO ] - [] - Login window opened
+21:27:53.716 [INFO ] - [] - Login page opened
+21:28:38.778 [INFO ] - [] - Login window opened
+21:28:57.438 [INFO ] - [] - Login page opened
+21:29:02.556 [INFO ] - [] - Login performed
+21:29:02.557 [INFO ] - [] - Login window opened

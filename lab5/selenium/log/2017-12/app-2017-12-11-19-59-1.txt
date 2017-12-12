@@ -1,0 +1,6 @@
+19:53:08.260 [INFO ] - [] - Login window opened
+19:56:10.909 [INFO ] - [] - Login window opened
+19:57:06.905 [INFO ] - [] - Login window opened
+19:57:13.501 [INFO ] - [] - Login page opened
+19:57:40.231 [INFO ] - [] - Login window opened
+19:57:54.853 [INFO ] - [] - Login page opened

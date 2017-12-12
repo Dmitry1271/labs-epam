@@ -1,0 +1,3 @@
+17:31:24.064 [INFO ] - [] - Login window opened
+17:31:54.562 [INFO ] - [] - Login window opened
+17:38:45.193 [INFO ] - [] - Login window opened

@@ -1,0 +1,6 @@
+04:10:07.816 [INFO ] - [] - Login window opened
+04:10:17.649 [INFO ] - [] - Login page opened
+04:10:20.123 [INFO ] - [] - Login performed
+04:10:20.126 [INFO ] - [] - Creation game window opened
+04:10:21.193 [INFO ] - [] - Creation game page opened
+04:10:23.439 [INFO ] - [] - Creation of the game perfomed

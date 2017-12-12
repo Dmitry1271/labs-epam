@@ -1,0 +1,13 @@
+02:50:02.300 [INFO ] - [] - Login page opened
+02:50:04.698 [INFO ] - [] - Login performed
+02:50:04.704 [INFO ] - [] - Game window opened
+02:50:06.113 [INFO ] - [] - Game page opened
+02:50:07.164 [INFO ] - [] - Change color of the car performed
+02:50:07.164 [INFO ] - [] - Game window opened
+02:50:32.046 [INFO ] - [] - Login window opened
+02:50:42.517 [INFO ] - [] - Login page opened
+02:50:49.633 [INFO ] - [] - Login performed
+02:50:49.640 [INFO ] - [] - Game window opened
+02:50:51.066 [INFO ] - [] - Game page opened
+02:50:52.064 [INFO ] - [] - Change color of the car performed
+02:50:52.065 [INFO ] - [] - Game window opened

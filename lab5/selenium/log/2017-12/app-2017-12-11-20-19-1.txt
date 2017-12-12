@@ -1,0 +1,13 @@
+20:10:53.276 [INFO ] - [] - Login window opened
+20:12:04.562 [INFO ] - [] - Login window opened
+20:12:20.130 [INFO ] - [] - Login page opened
+20:12:24.789 [INFO ] - [] - Login performed
+20:14:26.735 [INFO ] - [] - Login window opened
+20:14:39.234 [INFO ] - [] - Login page opened
+20:14:44.136 [INFO ] - [] - Login performed
+20:17:08.352 [INFO ] - [] - Login window opened
+20:17:31.245 [INFO ] - [] - Login page opened
+20:17:39.958 [INFO ] - [] - Login performed
+20:18:02.258 [INFO ] - [] - Login window opened
+20:18:25.893 [INFO ] - [] - Login page opened
+20:18:45.546 [INFO ] - [] - Login performed

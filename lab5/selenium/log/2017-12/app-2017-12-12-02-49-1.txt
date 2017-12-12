@@ -1,0 +1,24 @@
+02:40:07.304 [INFO ] - [] - Login page opened
+02:40:10.501 [INFO ] - [] - Login performed
+02:40:10.505 [INFO ] - [] - Game window opened
+02:40:11.686 [INFO ] - [] - Game page opened
+02:40:37.174 [INFO ] - [] - Change color of the car performed
+02:40:37.175 [INFO ] - [] - Game window opened
+02:44:04.553 [INFO ] - [] - Login window opened
+02:44:50.974 [INFO ] - [] - Login window opened
+02:45:02.810 [INFO ] - [] - Login page opened
+02:45:05.853 [INFO ] - [] - Login performed
+02:45:05.856 [INFO ] - [] - Game window opened
+02:45:08.125 [INFO ] - [] - Game page opened
+02:46:01.042 [INFO ] - [] - Login window opened
+02:46:20.226 [INFO ] - [] - Login page opened
+02:46:26.008 [INFO ] - [] - Login performed
+02:46:26.010 [INFO ] - [] - Game window opened
+02:46:27.106 [INFO ] - [] - Game page opened
+02:47:52.180 [INFO ] - [] - Login window opened
+02:48:49.227 [INFO ] - [] - Login window opened
+02:49:13.817 [INFO ] - [] - Login page opened
+02:49:16.146 [INFO ] - [] - Login performed
+02:49:16.149 [INFO ] - [] - Game window opened
+02:49:17.831 [INFO ] - [] - Game page opened
+02:49:50.699 [INFO ] - [] - Login window opened

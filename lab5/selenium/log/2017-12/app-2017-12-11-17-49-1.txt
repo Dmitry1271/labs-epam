@@ -1,0 +1,7 @@
+17:40:25.326 [INFO ] - [] - Login window opened
+17:42:41.004 [INFO ] - [] - Login window opened
+17:43:48.554 [INFO ] - [] - Login window opened
+17:45:05.025 [INFO ] - [] - Login window opened
+17:47:48.102 [INFO ] - [] - Login window opened
+17:48:30.105 [INFO ] - [] - Login window opened
+17:49:30.282 [INFO ] - [] - Login window opened

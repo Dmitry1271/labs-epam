@@ -1,0 +1,11 @@
+01:53:31.654 [INFO ] - [] - Game window opened
+01:55:25.033 [INFO ] - [] - Game window opened
+01:55:56.700 [INFO ] - [] - Game window opened
+01:57:51.100 [INFO ] - [] - Login window opened
+01:58:02.972 [INFO ] - [] - Login page opened
+01:58:06.162 [INFO ] - [] - Login performed
+01:58:06.163 [INFO ] - [] - Login window opened
+01:58:47.620 [INFO ] - [] - Game window opened
+01:58:55.407 [INFO ] - [] - Game page opened
+01:59:39.549 [INFO ] - [] - Game window opened
+01:59:47.427 [INFO ] - [] - Game page opened

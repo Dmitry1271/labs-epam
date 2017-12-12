@@ -1,0 +1,1 @@
+18:10:14.084 [INFO ] - [] - Login window opened

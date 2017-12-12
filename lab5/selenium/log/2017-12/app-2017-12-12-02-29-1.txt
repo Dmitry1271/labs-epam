@@ -1,0 +1,30 @@
+02:20:06.079 [INFO ] - [] - Login page opened
+02:20:10.025 [INFO ] - [] - Login performed
+02:20:10.028 [INFO ] - [] - Game window opened
+02:20:14.019 [INFO ] - [] - Game page opened
+02:21:20.136 [INFO ] - [] - Login window opened
+02:21:48.534 [INFO ] - [] - Login page opened
+02:21:52.381 [INFO ] - [] - Login performed
+02:21:52.384 [INFO ] - [] - Game window opened
+02:21:54.407 [INFO ] - [] - Game page opened
+02:21:55.191 [INFO ] - [] - Game window opened
+02:23:02.400 [INFO ] - [] - Login window opened
+02:23:26.871 [INFO ] - [] - Login page opened
+02:23:29.996 [INFO ] - [] - Login performed
+02:23:29.998 [INFO ] - [] - Game window opened
+02:23:35.667 [INFO ] - [] - Game page opened
+02:24:30.650 [INFO ] - [] - Login window opened
+02:24:45.222 [INFO ] - [] - Login page opened
+02:24:47.539 [INFO ] - [] - Login performed
+02:24:47.542 [INFO ] - [] - Game window opened
+02:24:50.106 [INFO ] - [] - Game page opened
+02:26:32.850 [INFO ] - [] - Login window opened
+02:26:49.454 [INFO ] - [] - Login page opened
+02:26:52.058 [INFO ] - [] - Login performed
+02:26:52.061 [INFO ] - [] - Game window opened
+02:26:53.745 [INFO ] - [] - Game page opened
+02:27:26.137 [INFO ] - [] - Login window opened
+02:27:48.927 [INFO ] - [] - Login page opened
+02:27:53.251 [INFO ] - [] - Login performed
+02:27:53.254 [INFO ] - [] - Game window opened
+02:27:55.267 [INFO ] - [] - Game page opened

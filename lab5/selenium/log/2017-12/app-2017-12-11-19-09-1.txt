@@ -1,0 +1,2 @@
+19:06:49.826 [INFO ] - [] - Login window opened
+19:06:57.164 [INFO ] - [] - Login page opened

@@ -1,0 +1,14 @@
+21:10:04.797 [INFO ] - [] - Login page opened
+21:10:42.937 [INFO ] - [] - Login window opened
+21:11:03.927 [INFO ] - [] - Login page opened
+21:12:48.347 [INFO ] - [] - Login window opened
+21:13:02.730 [INFO ] - [] - Login page opened
+21:13:09.298 [INFO ] - [] - Login performed
+21:13:09.298 [INFO ] - [] - Login window opened
+21:13:13.243 [INFO ] - [] - Login window opened
+21:13:27.471 [INFO ] - [] - Login page opened
+21:13:37.011 [INFO ] - [] - Login performed
+21:16:18.641 [INFO ] - [] - Login window opened
+21:16:31.412 [INFO ] - [] - Login page opened
+21:16:39.006 [INFO ] - [] - Login performed
+21:16:39.007 [INFO ] - [] - Login window opened

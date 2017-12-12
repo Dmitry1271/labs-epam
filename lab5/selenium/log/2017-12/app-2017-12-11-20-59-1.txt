@@ -1,0 +1,18 @@
+20:41:29.266 [INFO ] - [] - Login window opened
+20:42:19.683 [INFO ] - [] - Login window opened
+20:42:34.909 [INFO ] - [] - Login page opened
+20:42:39.451 [INFO ] - [] - Login performed
+20:47:21.226 [INFO ] - [] - Login window opened
+20:47:43.746 [INFO ] - [] - Login page opened
+20:47:57.393 [INFO ] - [] - Login window opened
+20:48:13.314 [INFO ] - [] - Login page opened
+20:48:18.199 [INFO ] - [] - Login performed
+20:48:18.202 [INFO ] - [] - Login window opened
+20:48:49.835 [INFO ] - [] - Login window opened
+20:49:05.414 [INFO ] - [] - Login page opened
+20:49:09.297 [INFO ] - [] - Login performed
+20:49:09.298 [INFO ] - [] - Login window opened
+20:49:39.555 [INFO ] - [] - Login window opened
+20:49:55.687 [INFO ] - [] - Login page opened
+20:49:58.726 [INFO ] - [] - Login performed
+20:49:58.726 [INFO ] - [] - Login window opened
